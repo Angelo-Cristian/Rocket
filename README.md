@@ -1,4 +1,4 @@
-# Rocket
+# 🎮 Rocket
 Get on the rocket and reach the finish line while you are avoiding the danger that's ahead of you. This is a 3D game made with unity.
 <img width="1615" height="862" alt="Rocket" src="https://github.com/user-attachments/assets/ead56e77-f503-498c-98d5-dac9ff7fd322" />
 
